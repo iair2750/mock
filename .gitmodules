@@ -1,0 +1,8 @@
+[submodule "be"]
+	path = be
+	url = https://github.com/iair2750/mock-be
+	branch = main
+[submodule "fe"]
+	path = fe
+	url = https://github.com/iair2750/mock-fe
+	branch = main
